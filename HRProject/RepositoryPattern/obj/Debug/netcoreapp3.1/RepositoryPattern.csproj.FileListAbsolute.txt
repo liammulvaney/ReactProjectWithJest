@@ -1,0 +1,13 @@
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.deps.json
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.dll
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.pdb
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csprojAssemblyReference.cache
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfo.cs
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CopyComplete
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.dll
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.pdb
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.dll
+C:\Users\liamm\source\repos\HRProject\RepositoryPattern\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.pdb

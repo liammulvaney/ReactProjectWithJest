@@ -1,0 +1,8 @@
+C:\Users\liamm\source\repos\HRProject\Models\bin\Release\netcoreapp3.1\Models.deps.json
+C:\Users\liamm\source\repos\HRProject\Models\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\liamm\source\repos\HRProject\Models\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\liamm\source\repos\HRProject\Models\obj\Release\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\liamm\source\repos\HRProject\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\HRProject\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\liamm\source\repos\HRProject\Models\obj\Release\netcoreapp3.1\Models.dll
+C:\Users\liamm\source\repos\HRProject\Models\obj\Release\netcoreapp3.1\Models.pdb

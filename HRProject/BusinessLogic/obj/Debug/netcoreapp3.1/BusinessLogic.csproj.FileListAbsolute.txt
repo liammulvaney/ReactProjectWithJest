@@ -1,0 +1,15 @@
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\RepositoryPattern.dll
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.dll
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\RepositoryPattern.pdb
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.pdb
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\liamm\source\repos\HRProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

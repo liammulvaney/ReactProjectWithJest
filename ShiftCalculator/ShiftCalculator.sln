@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftCalculator", "ShiftCalculator\ShiftCalculator.csproj", "{DEE82077-7AC0-4006-9F0C-95EC57D4D77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE82077-7AC0-4006-9F0C-95EC57D4D77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE82077-7AC0-4006-9F0C-95EC57D4D77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE82077-7AC0-4006-9F0C-95EC57D4D77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE82077-7AC0-4006-9F0C-95EC57D4D77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3037D8D1-2E5D-4447-997B-5E0E44FCE927}
+	EndGlobalSection
+EndGlobal

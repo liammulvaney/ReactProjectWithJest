@@ -1,0 +1,8 @@
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.deps.json
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.dll
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\bin\Debug\netcoreapp3.1\SQLDataClientFunctions.pdb
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\obj\Debug\netcoreapp3.1\SQLDataClientFunctions.csprojAssemblyReference.cache
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\obj\Debug\netcoreapp3.1\SQLDataClientFunctions.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\obj\Debug\netcoreapp3.1\SQLDataClientFunctions.AssemblyInfo.cs
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\obj\Debug\netcoreapp3.1\SQLDataClientFunctions.dll
+C:\Users\liamm\source\repos\HRProject\SQLDataClientFunctions\obj\Debug\netcoreapp3.1\SQLDataClientFunctions.pdb

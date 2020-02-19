@@ -1,0 +1,11 @@
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.exe
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.deps.json
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.runtimeconfig.json
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.runtimeconfig.dev.json
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.dll
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\netcoreapp3.1\ShiftCalculator.pdb
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\netcoreapp3.1\ShiftCalculator.csprojAssemblyReference.cache
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\netcoreapp3.1\ShiftCalculator.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\netcoreapp3.1\ShiftCalculator.AssemblyInfo.cs
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\netcoreapp3.1\ShiftCalculator.dll
+C:\Users\liamm\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\netcoreapp3.1\ShiftCalculator.pdb
