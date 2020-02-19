@@ -1,0 +1,13 @@
+1. Download Visual Studio Code Editor https://code.visualstudio.com/
+
+2. Make sure that Node.js is installed on the computer. If not, I provided the link here --> https://nodejs.org/en/download/
+
+3. As soon as you set up points 1 & 2, open the project using the terminal. Click on terminal and new terminal. make sure you are in the path of the project: cd 'D:\Angular\React\project' and click enter.
+
+4. To launch the project type this command: npm start
+
+5. To launch tests type this command: npm tests
+
+ 
+
+(The tests have been provided to explain how I would Mock an API using the Jest Library. You can find them here. App.test.js)
